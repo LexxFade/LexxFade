@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=LexxFade) <br>
 <a href="https://github.com/LexxFade?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LexxFade&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=575E67&icon_color=E89F9A&bg_color=ffffff" alt="Sasha's GitHub Stats" />
 </a>
