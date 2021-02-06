@@ -6,7 +6,6 @@
 ![](https://img.shields.io/badge/C_Sharp-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 
 <br>
 <details>
