@@ -8,6 +8,13 @@
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=6aa6f8)
 
 <br>
+
+100 Day Code Challenge
+<img src="https://cdn.discordapp.com/emojis/814808998020251648.gif" 
+     width="20"/>
+
+<br>
+
 <details>
   <summary>Github Public Stats :computer:</summary>
 <a href="https://github.com/LexxFade?tab=repositories">
